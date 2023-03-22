@@ -10,7 +10,7 @@ Creating a daily planner/scheduler application where users can save any informat
 <https://kenjib32.github.io/Profile-Week-10-Challenge/>
 ## Walkthrough
 
-![Demo](./Images/demo/Video.mov)
+Walkthrough Video Link <https://github.com/Kenjib32/Profile-Week-10-Challenge/tree/main/Images/demo>
 
 ![Result](./Images/demo/Profile.png)
 ## Complied Criteria
